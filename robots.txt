@@ -1,0 +1,4 @@
+Sitemap: https://fundstuecke.blog/sitemapindex.xml
+
+User-Agent: *
+Host: fundstuecke.blog
