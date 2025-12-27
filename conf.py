@@ -435,7 +435,7 @@ HIDDEN_TAGS = ['mathjax']
 # TAGLIST_MINIMUM_POSTS number of posts or more with every tag. Every tag
 # page is still generated, linked from posts, and included in the sitemap.
 # However, more obscure tags can be hidden from the tag index page.
-# TAGLIST_MINIMUM_POSTS = 1
+TAGLIST_MINIMUM_POSTS = 1
 
 # A list of dictionaries specifying tags which translate to each other.
 # Format: a list of dicts {language: translation, language2: translation2, …}
@@ -944,7 +944,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # )
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
-# INDEX_TEASERS = False
+INDEX_TEASERS = True
 
 # HTML fragments with the Read more... links.
 # The following tags exist and are replaced for you:
@@ -1025,12 +1025,12 @@ RSS_COPYRIGHT_FORMATS = CONTENT_FOOTER_FORMATS
 #   disqus, discourse, facebook, intensedebate, isso, muut, commento,
 #   utterances
 # You can leave this option blank to disable comments.
-COMMENT_SYSTEM = ""
+COMMENT_SYSTEM = "intensedebate"
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = ""
+COMMENT_SYSTEM_ID = "13f1475d4e2b8f9ea547e28f92f73b54"
 
 # Create index.html for page folders?
 # WARNING: if a page would conflict with the index file (usually

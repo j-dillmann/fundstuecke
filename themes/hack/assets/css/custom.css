@@ -1,0 +1,89 @@
+/* My customizations */
+body {
+  min-width: 500px;
+  font-family: Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace !important;
+  font-size: 1em;
+  background-color: #141414 !important;
+}
+article.post-text h1.entry-title {
+  text-align: left;
+  margin: 6px 0;
+}
+article.post-text .metadata p {
+  margin-right: 8px;
+}
+
+pre {
+  background-color: #eee !important;
+  white-space: pre-wrap;
+  padding: 5px !important;
+  margin-bottom: 12px !important;
+  font-size: 1.2em;
+  color: #777;
+}
+pre.example {
+  color: #777;
+}
+code {
+  background-color: #251f1f;
+}
+
+#container {
+  max-width: 1000px;
+}
+#logo {
+  max-width: 90px;
+}
+#blog-title {
+  position: relative;
+  bottom: 25px;
+/*  margin-left: 10px; */
+  margin-left: 0px;
+}
+.postindex article,
+article.postpage {
+  margin-top: 2em;
+}
+.entry-title {
+  line-height: 1em;
+  margin-bottom: 1em !important;
+}
+.metadata {
+  margin-bottom: 1em;
+}
+.author {
+  font-weight: bold;
+}
+
+:link {
+  color: #ACFF21;
+}
+a:hover, :link:hover, :visited:hover {
+  color: #4c9efe
+}
+:visited {
+  color: #C098FB;
+}
+
+article.storypage .figure img {
+  max-height: 500px;
+}
+
+div.figure p {
+  text-align: center;
+}
+
+/* Override fediverse-share-button styles */
+.fsb-prompt{
+  max-width: 500px;
+  margin-top: 52px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.fsb-icon {
+  max-width: 1rem !important;
+  margin-right: 0.5rem;
+  vertical-align: baseline;
+}
