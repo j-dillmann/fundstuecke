@@ -9,7 +9,7 @@
 
 Tatsächlich: Auch ich eröffne einen zweiten Blog.
 Ich hätte nie gedacht, daß es der natürliche nächste Schritt sein wird.
-Kaum zu glauben, daß ich erst 2024 mit dem bloggen angefangen habe!
+Kaum zu glauben, daß ich erst 2024 mit dem Bloggen angefangen habe!
 
 
 .. TEASER_END
