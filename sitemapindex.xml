@@ -7,11 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://fundstuecke.blog/categories/allgemeines.xml</loc>
-  <lastmod>2025-12-27T17:48:00Z</lastmod>
+  <lastmod>2025-12-28T21:55:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/categories/cat_allgemeines.xml</loc>
-  <lastmod>2025-12-27T17:48:00Z</lastmod>
+  <lastmod>2025-12-28T21:55:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://fundstuecke.blog/categories/cat_schreibexperiment.xml</loc>
+  <lastmod>2025-12-28T21:55:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/galleries/rss.xml</loc>
@@ -19,10 +23,10 @@
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/rss.xml</loc>
-  <lastmod>2025-12-27T17:48:00Z</lastmod>
+  <lastmod>2025-12-28T21:55:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/sitemap.xml</loc>
-  <lastmod>2025-12-27T17:52:00Z</lastmod>
+  <lastmod>2025-12-28T21:55:00Z</lastmod>
  </sitemap>
 </sitemapindex>
