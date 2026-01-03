@@ -22,7 +22,7 @@ Nun sitze ich mit Stift und Block am Tisch und kann vor lauter Stimmengewirr nic
 
 *Die Ungeduldige*: „Doch du kannst schreiben, aber die Aufgabe ist doof, schau dir mal die nächste an!“
 
-*Der Abenteuer*: „Das ist laaaangweilig lass uns was anders machen.“
+*Der Abenteurer*: „Das ist laaaangweilig lass uns was anders machen.“
 
 Und noch so einiges mehr schwirrt über den Tisch.
 
