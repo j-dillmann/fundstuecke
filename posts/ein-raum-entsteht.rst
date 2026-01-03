@@ -2,7 +2,7 @@
 .. slug: ein-raum-entsteht
 .. date: 2026-01-03 20:20:25 UTC+01:00
 .. tags: gedicht
-.. category: s chreibexperiment
+.. category: schreibexperiment
 .. link: 
 .. description: Mein Weg wie ein Rondell entsteht
 .. type: text
