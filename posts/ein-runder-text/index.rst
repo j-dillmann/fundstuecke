@@ -2,7 +2,7 @@
 .. slug: ein-runder-text
 .. date: 2025-12-28 21:20:30 UTC+01:00
 .. tags: 
-.. category: Schreibexperiment
+.. category: schreibexperiment
 .. link: 
 .. description: Einen runden Text über was Rundes schreiben
 .. type: text
