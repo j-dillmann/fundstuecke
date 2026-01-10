@@ -19,11 +19,15 @@
  </url>
  <url>
   <loc>https://fundstuecke.blog/archive.html</loc>
-  <lastmod>2026-01-09T23:22:00Z</lastmod>
+  <lastmod>2026-01-10T14:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://fundstuecke.blog/categories/</loc>
-  <lastmod>2026-01-09T23:22:00Z</lastmod>
+  <lastmod>2026-01-10T14:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://fundstuecke.blog/categories/8sammeln/</loc>
+  <lastmod>2026-01-10T14:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://fundstuecke.blog/categories/allgemeines/</loc>
@@ -36,6 +40,10 @@
  <url>
   <loc>https://fundstuecke.blog/categories/cat_allgemeines/</loc>
   <lastmod>2025-12-18T18:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://fundstuecke.blog/categories/cat_miniblogparade/</loc>
+  <lastmod>2026-01-10T14:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://fundstuecke.blog/categories/cat_schreibexperiment/</loc>
@@ -72,5 +80,9 @@
  <url>
   <loc>https://fundstuecke.blog/posts/ein-runder-text/</loc>
   <lastmod>2025-12-28T21:55:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://fundstuecke.blog/posts/winterzauber/</loc>
+  <lastmod>2026-01-10T14:04:00Z</lastmod>
  </url>
 </urlset>
