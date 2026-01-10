@@ -787,7 +787,7 @@ GITHUB_COMMIT_SOURCE = True
 # GALLERY_FOLDERS = {"galleries": "galleries"}
 # More gallery options:
 # THUMBNAIL_SIZE = 180
-# MAX_IMAGE_SIZE = 1280
+MAX_IMAGE_SIZE = 600
 # USE_FILENAME_AS_TITLE = True
 # EXTRA_IMAGE_EXTENSIONS = []
 
@@ -864,7 +864,7 @@ GALLERIES_DEFAULT_THUMBNAIL = None
 # Panoramas (aspect ratio over 3:1) get 4x larger thumbnails due to scaling issues.
 
 IMAGE_FOLDERS = {'images': 'images'}
-# IMAGE_THUMBNAIL_SIZE = 400
+IMAGE_THUMBNAIL_SIZE = 400
 # IMAGE_THUMBNAIL_FORMAT = '{name}.thumbnail{ext}'
 
 # #############################################################################
