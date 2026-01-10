@@ -12,7 +12,7 @@ Ich habe mich von dem Schnee verzaubern lassen. Leise, langsam, schön. Schnee l
 .. TEASER_END
 
 1.)
-Mist, ich bin zu spät. Der Schneepflug war schon da und hat die Straßen massiv gesalzen. Wir haben Spielstraßen ohne Bürgersteige. Wo finde ich einen Weg? Einen Weg, wo die Fellnase nicht vorwurfsvoll die brennende Pfote hoch hält? Mit aufmerksammen Blick weiche ich Salzinseln aus, suche Flächen mit nur Sprenkeln von Salz. Im Slalom gehen wir zur großen Wiese.
+Mist, ich bin zu spät. Der Schneepflug war schon da und hat die Straßen massiv gesalzen. Wir haben Spielstraßen ohne Bürgersteige. Wo finde ich einen Weg? Einen Weg, wo die Fellnase nicht vorwurfsvoll die brennende Pfote hoch hält? Mit aufmerksamem Blick weiche ich Salzinseln aus, suche Flächen mit nur Sprenkeln von Salz. Im Slalom gehen wir zur großen Wiese.
 
 
 
