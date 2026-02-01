@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://fundstuecke.blog/categories/8sammeln.xml</loc>
-  <lastmod>2026-01-10T14:04:00Z</lastmod>
+  <lastmod>2026-01-10T20:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/categories/allgemeines.xml</loc>
@@ -22,27 +22,43 @@
   <lastmod>2025-12-28T21:55:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://fundstuecke.blog/categories/cat_intuitives-schreiben.xml</loc>
+  <lastmod>2026-02-01T13:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://fundstuecke.blog/categories/cat_miniblogparade.xml</loc>
-  <lastmod>2026-01-10T14:04:00Z</lastmod>
+  <lastmod>2026-01-10T20:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/categories/cat_schreibexperiment.xml</loc>
   <lastmod>2026-01-03T21:39:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://fundstuecke.blog/categories/cat_schreibexperimente.xml</loc>
+  <lastmod>2026-01-25T21:14:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://fundstuecke.blog/categories/gedicht.xml</loc>
   <lastmod>2026-01-03T21:39:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://fundstuecke.blog/categories/perspektivwechsel.xml</loc>
+  <lastmod>2026-01-25T21:14:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://fundstuecke.blog/categories/schreiben-nach-liste.xml</loc>
+  <lastmod>2026-02-01T13:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://fundstuecke.blog/galleries/rss.xml</loc>
-  <lastmod>2026-01-03T19:57:00Z</lastmod>
+  <lastmod>2026-01-25T21:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/rss.xml</loc>
-  <lastmod>2026-01-10T14:04:00Z</lastmod>
+  <lastmod>2026-02-01T13:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/sitemap.xml</loc>
-  <lastmod>2026-01-10T14:04:00Z</lastmod>
+  <lastmod>2026-02-01T13:16:00Z</lastmod>
  </sitemap>
 </sitemapindex>
