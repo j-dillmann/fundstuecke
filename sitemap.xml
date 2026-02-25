@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://fundstuecke.blog/</loc>
-  <lastmod>2026-01-03T19:57:00Z</lastmod>
+  <lastmod>2026-02-25T20:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://fundstuecke.blog/2025/</loc>
@@ -19,11 +19,11 @@
  </url>
  <url>
   <loc>https://fundstuecke.blog/archive.html</loc>
-  <lastmod>2026-02-20T21:17:00Z</lastmod>
+  <lastmod>2026-02-25T20:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://fundstuecke.blog/categories/</loc>
-  <lastmod>2026-02-20T21:17:00Z</lastmod>
+  <lastmod>2026-02-25T20:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://fundstuecke.blog/categories/8sammeln/</loc>
@@ -62,6 +62,10 @@
   <lastmod>2026-02-07T19:51:00Z</lastmod>
  </url>
  <url>
+  <loc>https://fundstuecke.blog/categories/erfahrungsbericht/</loc>
+  <lastmod>2026-02-25T20:11:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://fundstuecke.blog/categories/gedicht/</loc>
   <lastmod>2026-01-03T19:57:00Z</lastmod>
  </url>
@@ -76,6 +80,10 @@
  <url>
   <loc>https://fundstuecke.blog/galleries/</loc>
   <lastmod>2025-12-18T18:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://fundstuecke.blog/index-1.html</loc>
+  <lastmod>2026-02-25T20:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://fundstuecke.blog/listings/</loc>
@@ -104,6 +112,10 @@
  <url>
   <loc>https://fundstuecke.blog/posts/ein-runder-text/</loc>
   <lastmod>2025-12-28T21:55:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://fundstuecke.blog/posts/eine-besondere-reise/</loc>
+  <lastmod>2026-02-25T20:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://fundstuecke.blog/posts/kindheitserinnerungen/</loc>

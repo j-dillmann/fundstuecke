@@ -23,7 +23,7 @@
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/categories/cat_erfahrungsbericht.xml</loc>
-  <lastmod>2026-02-20T21:17:00Z</lastmod>
+  <lastmod>2026-02-23T05:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/categories/cat_intuitives-schreiben.xml</loc>
@@ -35,11 +35,15 @@
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/categories/cat_schreibexperiment.xml</loc>
-  <lastmod>2026-01-03T21:39:00Z</lastmod>
+  <lastmod>2026-02-25T20:11:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/categories/cat_schreibexperimente.xml</loc>
-  <lastmod>2026-02-07T20:11:00Z</lastmod>
+  <lastmod>2026-02-25T20:11:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://fundstuecke.blog/categories/erfahrungsbericht.xml</loc>
+  <lastmod>2026-02-25T20:11:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/categories/gedicht.xml</loc>
@@ -51,7 +55,7 @@
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/categories/sitzen-in-stille.xml</loc>
-  <lastmod>2026-02-20T21:17:00Z</lastmod>
+  <lastmod>2026-02-25T20:11:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/galleries/rss.xml</loc>
@@ -59,10 +63,10 @@
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/rss.xml</loc>
-  <lastmod>2026-02-20T21:17:00Z</lastmod>
+  <lastmod>2026-02-25T20:11:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fundstuecke.blog/sitemap.xml</loc>
-  <lastmod>2026-02-20T21:17:00Z</lastmod>
+  <lastmod>2026-02-25T20:11:00Z</lastmod>
  </sitemap>
 </sitemapindex>
