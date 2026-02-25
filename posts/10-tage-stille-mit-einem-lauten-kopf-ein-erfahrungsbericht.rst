@@ -1,8 +1,8 @@
 .. title: 10 Tage Stille mit einem lauten Kopf - ein Erfahrungsbericht
 .. slug: 10-tage-stille-mit-einem-lauten-kopf-ein-erfahrungsbericht
 .. date: 2026-02-20 22:01:15 UTC+01:00
-.. tags: sitzen in stille
-.. category: erfahrungsbericht
+.. tags: erfahrungsbericht
+.. category: schreibexperimente
 .. link: 
 .. description: 
 .. type: text
@@ -15,7 +15,7 @@ Dieses Jahr hat mir das Leben einige turbulente Wellen vor die Füße gespüllt 
 
 .. TEASER_END
 
-Die paar mal an denen ich dabei war, bin ich nicht zur Ruhe gekommen. Mein Kopf war unglaublich laut, ich konnte meine Gedanken nicht einfangen. Mein Körper war unruhig. Hier bekommst du einen Einblick: https://fundstuecke.blog/posts/stilleso-laut/
+Die paar mal an denen ich dabei war, bin ich nicht zur Ruhe gekommen. Mein Kopf war unglaublich laut, ich konnte meine Gedanken nicht einfangen. Mein Körper war unruhig. Hier bekommst du einen Einblick:`Stille so laut <https://fundstuecke.blog/posts/stilleso-laut/>`_
 
 Doch eins ist hängengeblieben - bewußt einige Atemzüge nehmen. Jeden Tag kamen von Eva Mails mit Impulsen. In einem zu Beginn beschrieb Eva, dass es nicht darauf ankommt wie lange wir in der Stille sind. Zwei,drei bewußte Atemzüge machen einen Unterschied. Das habe ich tatsächlich jeden Tag geschafft. Der Gedanke „ Atme mal bewußt“ hat sich nach den ersten Tagen ganz automatisch eingeschlichen. Aha, so kann Stille auch aussehen!
 
