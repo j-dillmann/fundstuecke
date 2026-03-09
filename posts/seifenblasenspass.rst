@@ -39,7 +39,8 @@ Die Sonne scheint. Es ist Sonntag der 8. März. Und beim Spülen gibt es viel Sp
 
 .. thumbnail:: /images/Lemoncurdlinzer.jpeg
    :alt: Ein angebissenes Stück Lemoncurd Linzertorte auf einem Teller mit Krümeln und einer Gabel daneben
-   *Angebissenes Stück Lemoncurd Linzertorte*
+
+  *Angebissenes Stück Lemoncurd Linzertorte*
 
 6.) Dann lockt die Sonne auf die Terasse. Eigentlich gibt es einiges im Haus zu tun, aber bei dem Wetter – viel zu schade. Jeder von uns schnappt sich ein Buch. Ich beginne die "Fungipedia". Spannend was es an Pilzen gibt und wie sie mit den Bäumen kommunizieren. Auf dem Platz nebenan bilden die spielenden Kinder und die Boulespieler eine begleitende Geräuschkulisse. Kurz traut sich auch die Fellnase raus.
 
