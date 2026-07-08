@@ -19,7 +19,7 @@ Der Tag startet mit angenehmen Temperaturen und einem bewölkten Himmel.Da läuf
 
 1.
 
-Unser Flieder vor der Haustür blüht und ist gut besucht. Neben einem Zitronenfalter, der aber nicht still sitzen konnte für ein Foto, habe ich einen wunderschönen Tagfrauenauge beobachten können. Und dieser hat sich in Position geworfen. Ich konnte mich gar nicht satt sehen.
+Unser Flieder vor der Haustür blüht und ist gut besucht. Neben einem Zitronenfalter, der aber nicht still sitzen konnte für ein Foto, habe ich ein wunderschönes Tagpfauenauge beobachten können. Und dieser hat sich in Position geworfen. Ich konnte mich gar nicht satt sehen.
 
 
 
@@ -27,7 +27,7 @@ Unser Flieder vor der Haustür blüht und ist gut besucht. Neben einem Zitronenf
 .. thumbnail:: /images/Tagpfauenauge.jpeg
    :alt: Eine lila Fliederblüte. Darauf mit ausgebreiteten Flügeln ein Schmetterling. es ist ein Tagpfauenauge
 
-   *Tagpfauenauger*
+   *Tagpfauenauge*
 
 
 
